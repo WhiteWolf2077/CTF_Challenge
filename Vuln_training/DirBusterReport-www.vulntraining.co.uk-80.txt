@@ -1,0 +1,35 @@
+DirBuster 1.0-RC1 - Report
+http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
+Report produced on Tue Jun 09 05:22:45 IST 2020
+--------------------------------
+
+http://www.vulntraining.co.uk:80
+--------------------------------
+Directories found during testing:
+
+Dirs found with a 403 response:
+
+/css/
+/framework/
+/js/
+/framework/controllers/
+/framework/models/
+/framework/routes/
+/framework/templates/
+
+
+--------------------------------
+Files found during testing:
+
+Files found with a 418 responce:
+
+/index.php
+
+Files found with a 200 responce:
+
+/framework/templates/404.php
+/framework/templates/home.php
+/framework/routes/url.php
+
+
+--------------------------------

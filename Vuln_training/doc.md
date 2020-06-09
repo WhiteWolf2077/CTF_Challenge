@@ -1,4 +1,4 @@
-		<h1>Site : http://www.vulntraining.co.uk/ </h1>
+<h1>Site : http://www.vulntraining.co.uk/ </h1>
 
 <b>First Flag</b>: Visible in source file
 ![alt text](https://github.com/WhiteWolf2077/CTF_Challenge/blob/master/Vuln_training/Pictures/2020-06-08_19-52.png)
@@ -19,4 +19,10 @@
 
 ![5th flag](https://github.com/WhiteWolf2077/CTF_Challenge/blob/master/Vuln_training/Pictures/2020-06-09_05-12.png)
 
-<b>Sixth flag</b>: Subdomain finder leads us to a domain: <u>c867fc3a.vulntraining.co.uk</u>
+<b>Sixth flag</b>: Subdomain finder leads us to a domain: <i>c867fc3a.vulntraining.co.uk</i>
+
+<b>Seventh Flag</b>: ANother one found while bruteforcing for password on <i>billing.vulntraing.co.uk</i>
+
+![7th flag](https://github.com/WhiteWolf2077/CTF_Challenge/blob/master/Vuln_training/Pictures/2020-06-09_05-52.png)
+
+<b>Eighth Flag</b>:
